@@ -1,6 +1,6 @@
 # Programming Exam
 
-This exam consists of three exercises. Click on each link below to view the instructions.
+This portion exam consists of three exercises. Click on each link below or see the `instructions.md` file in each exercise folder to view the instructions.
 
 ## Exercises
 
