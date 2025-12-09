@@ -1,6 +1,6 @@
 # Exercise 2 Instructions
 
-Write a C program that:
+Write a C `sum.c` program that:
 
 - Prompts the user for how many numbers will be entered.
 - Asks the user to enter that many integers.

@@ -124,6 +124,7 @@
         "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
         "javascript.suggest.enabled": false,
         "javascript.validate.enable": false,
+        "markdown.extension.preview.autoShowPreviewToSide": true,
         "Prettier-SQL.keywordCase": "upper",
         "problems.decorations.enabled": false,
         "problems.visibility": false,
