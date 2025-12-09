@@ -13,7 +13,7 @@ typedef struct
 Complete a program so that it:
 
 - Prompts the user for the number of students (up to 50).
-- Creates an array of `student` of size n.
+- Creates an array of `student` of size n (where n is the number of students entered by the user).
 - For each student, asks for their name and exam score (0–100).
 - Computes the average score.
 - Prints the average and the name of the top-scoring student.
