@@ -5,7 +5,7 @@ You are given:
 ```c
 typedef struct
 {
-    char name[50];
+    string name;
     int score;
 } student;
 ```

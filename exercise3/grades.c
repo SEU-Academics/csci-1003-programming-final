@@ -1,10 +1,11 @@
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>
+#include <stdlib.h>
 
 typedef struct
 {
-    char name[50];
+    string name;
     int score;
 } student;
 
